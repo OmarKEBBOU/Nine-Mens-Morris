@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1580625479 source:c:\users\omark\desktop\jeu_du_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"respecter.c"
+	"ia.c"
+
+1580625479 c:\users\omark\desktop\jeu_du_moulin\respecter.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1580625479 c:\users\omark\desktop\jeu_du_moulin\ia.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1580626637 source:c:\users\omark\desktop\jeu_du_moulin\2019_projetc_gi_kebbou\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"respecter.c"
+	"ia.c"
+
+1580692577 c:\users\omark\desktop\jeu_du_moulin\2019_projetc_gi_kebbou\respecter.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1580692577 c:\users\omark\desktop\jeu_du_moulin\2019_projetc_gi_kebbou\ia.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
